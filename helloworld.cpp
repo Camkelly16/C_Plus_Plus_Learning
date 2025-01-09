@@ -6,6 +6,7 @@ int main(){ //main function is where the program begins
 //c = character. out = output, << = output. 
 //Put semicolon at the end of each statement to finish it
 // << std::endl = to end the line and start a new one
+// '\n' = to end the line and start a new one
 
     std::cout << "I like pizza!" << std::endl; 
     std::cout << "It's really good" << '\n';
